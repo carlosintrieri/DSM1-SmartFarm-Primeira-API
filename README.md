@@ -1,12 +1,20 @@
 # FATEC Profº Jessen Vidal - São José dos Campos - 1º Semestre DSM
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 Conforme a demanda da 1° API, ou "Aprendizagem por Projetos Integrados", foi criada uma aplicação web para a coleta e exibição de dados referentes a uma estufa automatizada para agricultura indoor.
 
 ## Índice
 
 <p style="text-align: center">
     <a href="#about">Sobre o Projeto</a> |
-    <a href="#tech">Tecnologias</a> |
     <a href="#mvp">MVP</a> |
     <a href="#sprint">Sprints</a> |
     <a href="#backlog">BackLog</a> |
@@ -18,17 +26,6 @@ Conforme a demanda da 1° API, ou "Aprendizagem por Projetos Integrados", foi cr
 ## Sobre o Projeto
 
 Este projeto se trata de um website para a leitura e armazenamento de dados da estufa inteligente do [Project Smart Farming](https://github.com/team-i9/Projeto-Smart-Farming/tree/master), que analisa os dados sobre umidade ambiente, umidade do solo, temperatura ambiente e volume da água, usando-os como base para a geração de gráficos e médias diárias, possibilitando uma melhor administração e monitoria da estufa.
-
-<span id="tech">
-
-## Tecnologias
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-GitHub / MySQL / Figma / Jira
 
 <span id="mvp">
 
@@ -104,4 +101,4 @@ Sprint 4:
 | João Felipe | Dev Team | [GitHub](https://github.com/jfiliprc) | [LinkedIn](https://www.linkedin.com/in/joão-felipe-rocha/) |
 | João Góes | Dev Team | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](http://www.linkedin.com/in/joão-vítor-góes-b82b63302) |
 | Pedro Prevides | Dev Team | [GitHub](https://github.com/GalaxyBurst) | [LinkedIn](https://www.linkedin.com/in/pedro-prevides-87a0b71a8/) |
-| Victor Bessa | Dev Team | [GitHub](https://github.com/victordanielrb) | [LinkedIn](https://www.linkedin.com/in/victor-daniel-ramos-bessa-1436a3215/) ||
+| Victor Bessa | Dev Team | [GitHub](https://github.com/victordanielrb) | [LinkedIn](https://www.linkedin.com/in/victor-daniel-ramos-bessa-1436a3215/) |||
